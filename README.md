@@ -1,4 +1,4 @@
-# Tigera Coding Assessment
+# Go Webservice
 
 Go web service combining uinames api and api.icndb.com
 and returning a joke with the username inserted. 
